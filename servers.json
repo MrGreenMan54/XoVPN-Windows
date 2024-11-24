@@ -1,5 +1,11 @@
 [
-	
+	{
+		"ServerName": "Belgium #1",
+		"ServerIP": "be1.vpnjantit.com",
+		"UserName": "XoVPNBelgium1-vpnjantit.com@be1jantit",
+		"Password": "XoVPNBelgium1",
+		"Secret": "vpnjantit"
+	},
 	{
 		"ServerName": "France #1",
 		"ServerIP": "fr3.vpnjantit.com",
