@@ -1,0 +1,14 @@
+[
+	{
+		"ServerName": "France #1",
+		"ServerIP": "fr3.vpnjantit.com",
+		"UserName": "xovpn-vpnjantit.com@fr3jantit",
+		"Password": "xovpn123",
+		"Secret": "vpnjantit"
+	},
+	{
+		"ServerName": "France #2",
+		"ServerIP": "192.168.0.2",
+		"UserName": "PidorBaba"
+	}
+]
