@@ -25,4 +25,11 @@
 		"Password": "XoVPNUkraine1",
 		"Secret": "vpnjantit"
 	},
+	{
+		"ServerName": "Belgium #1",
+		"ServerIP": "be1.vpnjantit.com",
+		"UserName": "XoVPNBelgium1-vpnjantit.com@be1jantit",
+		"Password": "XoVPNBelgium1",
+		"Secret": "vpnjantit"
+	},
 ]
