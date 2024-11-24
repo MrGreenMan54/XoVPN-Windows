@@ -1,5 +1,12 @@
 [
 	{
+		"ServerName": "Belgium #1",
+		"ServerIP": "be1.vpnjantit.com",
+		"UserName": "XoVPNBelgium1-vpnjantit.com@be1jantit",
+		"Password": "XoVPNBelgium1",
+		"Secret": "vpnjantit"
+	},
+	{
 		"ServerName": "France #1",
 		"ServerIP": "fr3.vpnjantit.com",
 		"UserName": "xovpn-vpnjantit.com@fr3jantit",
@@ -10,12 +17,27 @@
 		"ServerName": "France #2",
 		"ServerIP": "192.168.0.2",
 		"UserName": "PidorBaba"
-	},
+	}
 	{
 		"ServerName": "Ukraine #1",
 		"ServerIP": "ua1.vpnjantit.com",
-		"UserName": "XoVPNUkraine1-vpnjantit.com@ua1jantit",
+		"UserName": "XoVPNUkraine1-vpnjantit.com",
 		"Password": "XoVPNUkraine1",
 		"Secret": "vpnjantit"
 	}
 ]
+
+
+
+
+Belgium
+France
+Germany
+Netherlands
+Poland
+India
+Japan
+Turkey
+United Kingdom
+United States
+Ukraine
