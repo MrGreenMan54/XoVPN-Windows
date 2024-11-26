@@ -7,29 +7,109 @@
 		"Secret": "vpnjantit"
 	},
 	{
+		"ServerName": "Belgium #2",
+		"ServerIP": "be2.vpnjantit.com",
+		"UserName": "XoVPNBelgium2-vpnjantit.com@be2jantit",
+		"Password": "XoVPNBelgium2",
+		"Secret": "vpnjantit"
+	},
+	{
 		"ServerName": "France #1",
+		"ServerIP": "fr1.vpnjantit.com",
+		"UserName": "XoVPNFrance1-vpnjantit.com@fr1jantit",
+		"Password": "XoVPNFrance1",
+		"Secret": "vpnjantit"
+	},
+	{
+		"ServerName": "France #2",
+		"ServerIP": "fr2.vpnjantit.com",
+		"UserName": "XoVPNFrance2-vpnjantit.com@premiumfr1",
+		"Password": "XoVPNFrance2",
+		"Secret": "vpnjantit"
+	},
+	{
+		"ServerName": "France #3",
 		"ServerIP": "fr3.vpnjantit.com",
 		"UserName": "xovpn-vpnjantit.com@fr3jantit",
 		"Password": "xovpn123",
 		"Secret": "vpnjantit"
 	},
 	{
-		"ServerName": "France #2",
-		"ServerIP": "192.168.0.2",
-		"UserName": "PidorBaba"
+		"ServerName": "Germany #1",
+		"ServerIP": "gr1.vpnjantit.com",
+		"UserName": "XoVPNGermany1-vpnjantit.com@gr1jantit",
+		"Password": "XoVPNGermany1",
+		"Secret": "vpnjantit"
+	},
+	{
+		"ServerName": "Germany #2",
+		"ServerIP": "gr2.vpnjantit.com",
+		"UserName": "XoVPNGermany2-vpnjantit.com@gr2jantit",
+		"Password": "XoVPNGermany2",
+		"Secret": "vpnjantit"
+	},
+	{
+		"ServerName": "Germany #3",
+		"ServerIP": "gr3.vpnjantit.com",
+		"UserName": "XoVPNGermany3-vpnjantit.com@gr3jantit",
+		"Password": "XoVPNGermany3",
+		"Secret": "vpnjantit"
+	},
+	{
+		"ServerName": "Netherlands #1",
+		"ServerIP": "nl1.vpnjantit.com",
+		"UserName": "XoVPNNether1-vpnjantit.com@nl1jantit",
+		"Password": "XoVPNNether1",
+		"Secret": "vpnjantit"
+	},
+	{
+		"ServerName": "Netherlands #2",
+		"ServerIP": "nl2.vpnjantit.com",
+		"UserName": "XoVPNNether2-vpnjantit.com@nl2jantit",
+		"Password": "XoVPNNether2",
+		"Secret": "vpnjantit"
+	},
+	{
+		"ServerName": "Netherlands #3",
+		"ServerIP": "nl3.vpnjantit.com",
+		"UserName": "XoVPNNether3-vpnjantit.com@nl3jantit",
+		"Password": "XoVPNNether3",
+		"Secret": "vpnjantit"
+	},
+	{
+		"ServerName": "Poland #1",
+		"ServerIP": "pl1.vpnjantit.com",
+		"UserName": "XoVPNPoland1-vpnjantit.com@pl1jantit",
+		"Password": "XoVPNPoland1",
+		"Secret": "vpnjantit"
+	},
+	{
+		"ServerName": "India #1",
+		"ServerIP": "in1.vpnjantit.com",
+		"UserName": "XoVPNIndia1-vpnjantit.com@in1jantit",
+		"Password": "XoVPNIndia1",
+		"Secret": "vpnjantit"
+	},
+	{
+		"ServerName": "India #2",
+		"ServerIP": "pl1.vpnjantit.com",
+		"UserName": "XoVPNPoland1-vpnjantit.com@pl1jantit",
+		"Password": "XoVPNPoland1",
+		"Secret": "vpnjantit",
+		"Expire": "2024.11.29 00:17:56"
+	},
+	{
+		"ServerName": "India #3",
+		"ServerIP": "pl1.vpnjantit.com",
+		"UserName": "XoVPNPoland1-vpnjantit.com@pl1jantit",
+		"Password": "XoVPNPoland1",
+		"Secret": "vpnjantit"
 	},
 	{
 		"ServerName": "Ukraine #1",
 		"ServerIP": "ua1.vpnjantit.com",
 		"UserName": "XoVPNUkraine1-vpnjantit.com",
 		"Password": "XoVPNUkraine1",
-		"Secret": "vpnjantit"
-	},
-	{
-		"ServerName": "Belgium #1",
-		"ServerIP": "be1.vpnjantit.com",
-		"UserName": "XoVPNBelgium1-vpnjantit.com@be1jantit",
-		"Password": "XoVPNBelgium1",
 		"Secret": "vpnjantit"
 	},
 ]
