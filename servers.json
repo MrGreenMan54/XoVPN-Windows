@@ -88,7 +88,8 @@
 		"ServerIP": "in1.vpnjantit.com",
 		"UserName": "XoVPNIndia1-vpnjantit.com@in1jantit",
 		"Password": "XoVPNIndia1",
-		"Secret": "vpnjantit"
+		"Secret": "vpnjantit",
+		"Expire": "2024 11 30 05:29:12"
 	},
 	{
 		"ServerName": "India #2",
