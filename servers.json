@@ -116,6 +116,22 @@
 		"Expire": "2024 12 05 06:34:23"
 	},
 	{
+		"ServerName": "Japan #2",
+		"ServerIP": "jp2.vpnjantit.com",
+		"UserName": "XoVPNJapan2-vpnjantit.com@jp2jantit",
+		"Password": "XoVPNJapan2",
+		"Secret": "vpnjantit",
+		"Expire": "2024 11 30 06:48:23"
+	},
+	{
+		"ServerName": "Japan #6",
+		"ServerIP": "jp6.vpnjantit.com",
+		"UserName": "XoVPNJapan6-vpnjantit.com@jp6jantit",
+		"Password": "XoVPNJapan6",
+		"Secret": "vpnjantit",
+		"Expire": "2024 12 02 06:56:39"
+	},
+	{
 		"ServerName": "Ukraine #1",
 		"ServerIP": "ua1.vpnjantit.com",
 		"UserName": "XoVPNUkraine1-vpnjantit.com",
