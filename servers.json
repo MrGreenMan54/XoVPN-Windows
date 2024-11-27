@@ -108,6 +108,14 @@
 		"Expire": "2024 12 05 06:22:50"
 	},
 	{
+		"ServerName": "Japan #1",
+		"ServerIP": "premijp1.vpnjantit.com",
+		"UserName": "XoVPNJapan1-vpnjantit.com@premijp1jantit",
+		"Password": "XoVPNJapan1",
+		"Secret": "vpnjantit",
+		"Expire": "2024 12 05 06:34:23"
+	},
+	{
 		"ServerName": "Ukraine #1",
 		"ServerIP": "ua1.vpnjantit.com",
 		"UserName": "XoVPNUkraine1-vpnjantit.com",
