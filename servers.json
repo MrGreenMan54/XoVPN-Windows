@@ -100,11 +100,12 @@
 		"Expire": "2024 11 30 06:12:37"
 	},
 	{
-		"ServerName": "India #3",
-		"ServerIP": "pl1.vpnjantit.com",
-		"UserName": "XoVPNPoland1-vpnjantit.com@pl1jantit",
-		"Password": "XoVPNPoland1",
-		"Secret": "vpnjantit"
+		"ServerName": "India #9",
+		"ServerIP": "in9.vpnjantit.com",
+		"UserName": "XoVPNIndia9-vpnjantit.com@in9jantit",
+		"Password": "XoVPNIndia9",
+		"Secret": "vpnjantit",
+		"Expire": "2024 12 05 06:22:50"
 	},
 	{
 		"ServerName": "Ukraine #1",
