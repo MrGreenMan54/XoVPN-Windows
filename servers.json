@@ -32,7 +32,8 @@
 		"ServerIP": "fr3.vpnjantit.com",
 		"UserName": "xovpn-vpnjantit.com@fr3jantit",
 		"Password": "xovpn123",
-		"Secret": "vpnjantit"
+		"Secret": "vpnjantit",
+		"Expire": "2024 12 12 07:32:05"
 	},
 	{
 		"ServerName": "Germany #1",
