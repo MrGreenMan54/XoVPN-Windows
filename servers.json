@@ -61,7 +61,7 @@
 		"UserName": "XoVPNGermany3-vpnjantit.com@gr3jantit",
 		"Password": "XoVPNGermany3",
 		"Secret": "vpnjantit",
-		"Expire": "2025 02 04 06 02 00"
+		"Expire": "2025 02 04 06:02:00"
 	},
 	{
 		"ServerName": "Netherlands #1",
