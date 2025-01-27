@@ -5,6 +5,7 @@
 		"UserName": "XoVPNBelgium1-vpnjantit.com@be1jantit",
 		"Password": "XoVPNBelgium1",
 		"Secret": "vpnjantit"
+		"Expire": "2024 11 30 05:29:12"
 	},
 	{
 		"ServerName": "Belgium #2",
@@ -12,6 +13,7 @@
 		"UserName": "XoVPNBelgium2-vpnjantit.com@be2jantit",
 		"Password": "XoVPNBelgium2",
 		"Secret": "vpnjantit"
+		"Expire": "2024 11 30 05:29:12"
 	},
 	{
 		"ServerName": "France #1",
@@ -19,6 +21,7 @@
 		"UserName": "XoVPNFrance1-vpnjantit.com@fr1jantit",
 		"Password": "XoVPNFrance1",
 		"Secret": "vpnjantit"
+		"Expire": "2024 11 30 05:29:12"
 	},
 	{
 		"ServerName": "France #2",
@@ -26,6 +29,7 @@
 		"UserName": "XoVPNFrance2-vpnjantit.com@premiumfr1",
 		"Password": "XoVPNFrance2",
 		"Secret": "vpnjantit"
+		"Expire": "2024 11 30 05:29:12"
 	},
 	{
 		"ServerName": "France #3",
@@ -41,6 +45,7 @@
 		"UserName": "XoVPNGermany1-vpnjantit.com@gr1jantit",
 		"Password": "XoVPNGermany1",
 		"Secret": "vpnjantit"
+		"Expire": "2024 11 30 05:29:12"
 	},
 	{
 		"ServerName": "Germany #2",
@@ -48,6 +53,7 @@
 		"UserName": "XoVPNGermany2-vpnjantit.com@gr2jantit",
 		"Password": "XoVPNGermany2",
 		"Secret": "vpnjantit"
+		"Expire": "2024 11 30 05:29:12"
 	},
 	{
 		"ServerName": "Germany #3",
@@ -55,6 +61,7 @@
 		"UserName": "XoVPNGermany3-vpnjantit.com@gr3jantit",
 		"Password": "XoVPNGermany3",
 		"Secret": "vpnjantit"
+		"Expire": "2024 11 30 05:29:12"
 	},
 	{
 		"ServerName": "Netherlands #1",
@@ -62,6 +69,7 @@
 		"UserName": "XoVPNNether1-vpnjantit.com@nl1jantit",
 		"Password": "XoVPNNether1",
 		"Secret": "vpnjantit"
+		"Expire": "2024 11 30 05:29:12"
 	},
 	{
 		"ServerName": "Netherlands #2",
@@ -69,6 +77,7 @@
 		"UserName": "XoVPNNether2-vpnjantit.com@nl2jantit",
 		"Password": "XoVPNNether2",
 		"Secret": "vpnjantit"
+		"Expire": "2024 11 30 05:29:12"
 	},
 	{
 		"ServerName": "Netherlands #3",
@@ -76,6 +85,7 @@
 		"UserName": "XoVPNNether3-vpnjantit.com@nl3jantit",
 		"Password": "XoVPNNether3",
 		"Secret": "vpnjantit"
+		"Expire": "2024 11 30 05:29:12"
 	},
 	{
 		"ServerName": "Poland #1",
@@ -83,6 +93,7 @@
 		"UserName": "XoVPNPoland1-vpnjantit.com@pl1jantit",
 		"Password": "XoVPNPoland1",
 		"Secret": "vpnjantit"
+		"Expire": "2025 02 03 18:32:05"
 	},
 	{
 		"ServerName": "India #1",
@@ -138,5 +149,6 @@
 		"UserName": "XoVPNUkraine1-vpnjantit.com",
 		"Password": "XoVPNUkraine1",
 		"Secret": "vpnjantit"
+		"Expire": "2024 11 30 05:29:12"
 	},
 ]
