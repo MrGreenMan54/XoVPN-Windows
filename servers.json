@@ -176,7 +176,7 @@
 		"Expire": "2025 02 04 08:40:27"
 	},
 	{
-		"ServerName": "Unitedkingdom #1",
+		"ServerName": "UnitedKingdom #1",
 		"ServerIP": "uk-l2tp.ipracevpn.com",
 		"UserName": "racevpn.com-XRVUK1",
 		"Password": "XRVUK1",
@@ -184,7 +184,7 @@
 		"Expire": "2025 02 11 00:00:00"
 	},
 	{
-		"ServerName": "USA #1",
+		"ServerName": "UnitedStates #1",
 		"ServerIP": "usp-2.optnl.com",
 		"UserName": "opentunnel.net-xousa1",
 		"Password": "xousa1",
