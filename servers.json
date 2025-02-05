@@ -125,7 +125,7 @@
 		"UserName": "XoVPNIndia6-vpnjantit.com@in6jantit",
 		"Password": "XoVPNIndia6",
 		"Secret": "vpnjantit",
-		"Expire": "2024 11 30 06:12:37"
+		"Expire": "2025 02 09 04:45:43"
 	},
 	{
 		"ServerName": "India #9",
@@ -134,6 +134,14 @@
 		"Password": "XoVPNIndia9",
 		"Secret": "vpnjantit",
 		"Expire": "2025 02 03 07:17:51"
+	},
+	{
+		"ServerName": "Italy #1",
+		"ServerIP": "it-l2tp.ipracevpn.com",
+		"UserName": "racevpn.com-XRVIT1",
+		"Password": "XRVIT1",
+		"Secret": "racevpn",
+		"Expire": "2025 02 11 00:00:00"
 	},
 	{
 		"ServerName": "Japan #1",
@@ -168,7 +176,7 @@
 		"Expire": "2025 02 04 08:40:27"
 	},
 	{
-		"ServerName": "United Kingdom #1",
+		"ServerName": "Unitedkingdom #1",
 		"ServerIP": "uk-l2tp.ipracevpn.com",
 		"UserName": "racevpn.com-XRVUK1",
 		"Password": "XRVUK1",
