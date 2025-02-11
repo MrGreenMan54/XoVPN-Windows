@@ -53,7 +53,7 @@
 		"UserName": "XoVPNGermany1-vpnjantit.com@gr1jantit",
 		"Password": "XoVPNGermany1",
 		"Secret": "vpnjantit",
-		"Expire": "2025 02 11 19:34:22"
+		"Expire": "2025 02 19 03:30:48"
 	},
 	{
 		"ServerName": "Germany #2",
@@ -117,7 +117,7 @@
 		"UserName": "XoVPNPoland1-vpnjantit.com@pl1jantit",
 		"Password": "XoVPNPoland1",
 		"Secret": "vpnjantit",
-		"Expire": "2025 02 11 20:19:23"
+		"Expire": "2025 02 19 03:43:06"
 	},
 	{
 		"ServerName": "India #1",
@@ -149,7 +149,7 @@
 		"UserName": "racevpn.com-XRVIT1",
 		"Password": "XRVIT1",
 		"Secret": "racevpn",
-		"Expire": "2025 02 11 00:00:00"
+		"Expire": "2025 02 11 07:00:00"
 	},
 	{
 		"ServerName": "Japan #1",
@@ -189,7 +189,7 @@
 		"UserName": "racevpn.com-XRVUK1",
 		"Password": "XRVUK1",
 		"Secret": "racevpn",
-		"Expire": "2025 02 11 00:00:00"
+		"Expire": "2025 02 11 07:00:00"
 	},
 	{
 		"ServerName": "UnitedStates #1",
@@ -197,6 +197,6 @@
 		"UserName": "opentunnel.net-xousa1",
 		"Password": "xousa1",
 		"Secret": "opentunnel.net",
-		"Expire": "2025 02 13 00:00:00"
+		"Expire": "2025 02 13 07:00:00"
 	},
 ]
