@@ -154,10 +154,10 @@
 	{
 		"ServerName": "Italy #1",
 		"ServerIP": "it-l2tp.ipracevpn.com",
-		"UserName": "racevpn.com-XRVIT1",
-		"Password": "XRVIT1",
+		"UserName": "racevpn.com-XoItaly",
+		"Password": "XoItaly",
 		"Secret": "racevpn",
-		"Expire": "2025 02 11 07:00:00"
+		"Expire": "2025 03 02 07:00:00"
 	},
 	{
 		"ServerName": "Japan #1",
@@ -178,10 +178,10 @@
 	{
 		"ServerName": "Japan #6",
 		"ServerIP": "jp6.vpnjantit.com",
-		"UserName": "XoVPNJapan6-vpnjantit.com@jp6jantit",
-		"Password": "XoVPNJapan6",
+		"UserName": "XoJapan-vpnjantit.com@jp6jantit",
+		"Password": "XoJapan",
 		"Secret": "vpnjantit",
-		"Expire": "2025 02 15 04:44:36"
+		"Expire": "2025 02 28 05:29:49"
 	},
 	{
 		"ServerName": "Ukraine #1",
