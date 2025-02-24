@@ -61,7 +61,7 @@
 		"UserName": "XoVPNGermany2-vpnjantit.com@gr2jantit",
 		"Password": "XoVPNGermany2",
 		"Secret": "vpnjantit",
-		"Expire": "2025 02 22 01:33:10"
+		"Expire": "2025 03 04 04:59:36"
 	},
 	{
 		"ServerName": "Germany #3",
@@ -69,15 +69,15 @@
 		"UserName": "XoVPNGermany3-vpnjantit.com@gr3jantit",
 		"Password": "XoVPNGermany3",
 		"Secret": "vpnjantit",
-		"Expire": "2025 02 22 01:34:08"
+		"Expire": "2025 03 04 05:05:32"
 	},
 	{
 		"ServerName": "Germany #4",
 		"ServerIP": "de-l2tp.ipracevpn.com",
-		"UserName": "racevpn.com-XRVDE1",
-		"Password": "XRVDE1",
+		"UserName": "racevpn.com-XRVDE",
+		"Password": "XRVDE",
 		"Secret": "racevpn",
-		"Expire": "2025 02 16 07:00:00"
+		"Expire": "2025 03 02 07:00:00"
 	},
 	{
 		"ServerName": "Netherlands #1",
@@ -93,7 +93,7 @@
 		"UserName": "XoVPNNether2-vpnjantit.com@nl2jantit",
 		"Password": "XoVPNNether2",
 		"Secret": "vpnjantit",
-		"Expire": "2025 02 22 01:23:26"
+		"Expire": "2025 03 04 04:39:44"
 	},
 	{
 		"ServerName": "Netherlands #3",
@@ -101,7 +101,7 @@
 		"UserName": "XoVPNNether3-vpnjantit.com@nl3jantit",
 		"Password": "XoVPNNether3",
 		"Secret": "vpnjantit",
-		"Expire": "2025 02 22 01:26:12"
+		"Expire": "2025 03 04 04:48:52"
 	},
 	{
 		"ServerName": "Netherlands #4",
@@ -157,7 +157,7 @@
 		"UserName": "XoVPNJapan1-vpnjantit.com@jp1jantit",
 		"Password": "XoVPNJapan1",
 		"Secret": "vpnjantit",
-		"Expire": "2025 02 12 04:56:49"
+		"Expire": "2025 03 03 05:11:14"
 	},
 	{
 		"ServerName": "Japan #2",
@@ -165,7 +165,7 @@
 		"UserName": "XoVPNJapan2-vpnjantit.com@jp2jantit",
 		"Password": "XoVPNJapan2",
 		"Secret": "vpnjantit",
-		"Expire": "2025 02 18 04:10:21"
+		"Expire": "2025 03 04 05:16:56"
 	},
 	{
 		"ServerName": "Japan #6",
