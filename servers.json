@@ -34,10 +34,10 @@
 	{
 		"ServerName": "France #2",
 		"ServerIP": "fr2.vpnjantit.com",
-		"UserName": "XoVPNFrance2-vpnjantit.com@premiumfr1",
-		"Password": "XoVPNFrance2",
+		"UserName": "XoFrance-vpnjantit.com@premiumfr1",
+		"Password": "XoFrance",
 		"Secret": "vpnjantit",
-		"Expire": "2025 02 23 04:13:28"
+		"Expire": "2025 03 04 05:46:58"
 	},
 	{
 		"ServerName": "France #3",
