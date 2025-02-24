@@ -138,10 +138,10 @@
 	{
 		"ServerName": "India #6",
 		"ServerIP": "in6.vpnjantit.com",
-		"UserName": "XoVPNIndia6-vpnjantit.com@in6jantit",
-		"Password": "XoVPNIndia6",
+		"UserName": "XoIndia-vpnjantit.com@in6jantit",
+		"Password": "XoIndia",
 		"Secret": "vpnjantit",
-		"Expire": "2025 02 23 05:11:03"
+		"Expire": "2025 02 28 05:35:35"
 	},
 	{
 		"ServerName": "India #9",
