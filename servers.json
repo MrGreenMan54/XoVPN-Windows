@@ -48,6 +48,14 @@
 		"Expire": "2025 02 26 04:24:20"
 	},
 	{
+		"ServerName": "France #4",
+		"ServerIP": "fr-l2tp.ipracevpn.com",
+		"UserName": "racevpn.com-XoFrance",
+		"Password": "XoFrance",
+		"Secret": "racevpn",
+		"Expire": "2025 03 02 07:00:00"
+	},
+	{
 		"ServerName": "Germany #1",
 		"ServerIP": "gr1.vpnjantit.com",
 		"UserName": "XoVPNGermany1-vpnjantit.com@gr1jantit",
